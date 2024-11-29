@@ -1,0 +1,11 @@
+{
+  "name": "propMasterAI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "recharts": "^2.13.3"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
